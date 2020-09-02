@@ -1,2 +1,2 @@
-# Cancer-Classification
+# Supervised Learning
 cvcv
